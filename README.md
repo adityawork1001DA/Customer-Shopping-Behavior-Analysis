@@ -540,3 +540,14 @@ Built as an **end-to-end Data Analytics portfolio project** demonstrating how ra
 <br>
 
 </div>
+
+<div align="center">
+
+# Aditya Sharma
+
+### Aspiring Data Analyst • Business Analyst • BI Developer
+
+**Python • SQL • Power BI • Streamlit • Pandas • Excel • SQLite**
+
+
+</div>
