@@ -441,23 +441,23 @@ These groups present opportunities for revenue growth, retention, and subscripti
 ```text
 Customer-Shopping-Behavior-Analysis/
 │
-├── 📁 data/
+├── data/
 │   ├── shopping_behavior.csv
 │   └── cleaned_shopping_behavior.csv
 │
-├── 📁 notebooks/
+├── notebooks/
 │   └── customer_behavior_analysis.ipynb
 │
-├── 📁 sql/
+├── sql/
 │   └── business_analysis.sql
 │
-├── 📁 dashboard/
+├── dashboard/
 │   └── customer_behavior_dashboard.pbix
 │
-├── 📁 images/
+├── images/
 │   └── customer_behavior_dashboard.png
 │
-├── 📁 reports/
+├── reports/
 │   └── Customer_Shopping_Behavior_Analysis.pdf
 │
 └── README.md
@@ -538,7 +538,5 @@ Built as an **end-to-end Data Analytics portfolio project** demonstrating how ra
 **If you found this project useful, consider starring the repository!**
 
 <br>
-
-**Made with 📊 + ☕ + a lot of SQL**
 
 </div>
