@@ -535,7 +535,5 @@ Future versions of this project could include:
 
 ### Aspiring Data Analyst • Business Analyst • BI Developer
 
-**Python • SQL • Power BI • Streamlit • Pandas • Excel • SQLite**
-
 
 </div>
