@@ -527,18 +527,6 @@ Future versions of this project could include:
 
 ---
 
-<div align="center">
-
-##  About This Project
-
-Built as an **end-to-end Data Analytics portfolio project** demonstrating how raw transactional data can be transformed into meaningful business insights using:
-
-### Python → PostgreSQL → Power BI
-
-**If you found this project useful, consider starring the repository!**
-
-<br>
-
 </div>
 
 <div align="center">
